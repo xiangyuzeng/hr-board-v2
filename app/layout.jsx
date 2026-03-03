@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Temu DBA · HR终面答题板',
-  description: '57题 · 7模块 · Fit·动机·可靠性聚焦 · 教育背景·PayPal·过渡→Foxx·Luckin·稳定性·Temu动机·文化适配',
+  description: '56题 · 7模块 · Fit·动机·可靠性聚焦 · 教育背景·PayPal·过渡→Foxx·Luckin·稳定性·Temu动机·文化适配',
 };
 export default function RootLayout({ children }) {
   return (
