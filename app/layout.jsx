@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Temu DBA · HR终面答题板',
-  description: '65题 · 9模块 · Fit·动机·可靠性聚焦 · 自我介绍·工作经历·职业过渡·稳定性·实战行为·Temu认知·文化适配·远程工作·主动性',
+  description: '65题 · 10模块 · Fit·动机·可靠性聚焦 · 自我介绍·工作经历·职业过渡·稳定性·实战行为·Temu认知·职业规划·工作强度·远程工作·主动性',
 };
 export default function RootLayout({ children }) {
   return (
